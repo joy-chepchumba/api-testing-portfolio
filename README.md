@@ -2,60 +2,80 @@
 
 Welcome to my API Testing Portfolio.
 
-This repository showcases my practical approach to API testing using industry-standard tools and QA best practices.
+This repository showcases my approach to API testing through professionally structured QA documentation and testing artifacts based on industry-standard practices.
 
-The examples in this repository are created for demonstration purposes and reflect real-world API testing techniques.
+The examples in this repository are created for demonstration purposes and reflect common API testing workflows using REST APIs.
+
+---
+
+# 📌 Contents
+
+This repository currently includes:
+
+* API Test Plans
+* API Test Cases
+* Authentication Documentation
+* HTTP Status Code Validation
 
 ---
 
 # 🛠 Skills Demonstrated
 
-- REST API Testing
-- Request & Response Validation
-- HTTP Status Code Validation
-- Authentication Testing
-- CRUD Operations Testing
-- API Documentation Validation
-- Negative API Testing
-- API Bug Reporting
-- Test Documentation
+* REST API Testing
+* API Test Planning
+* API Test Case Design
+* Request & Response Validation
+* HTTP Status Code Validation
+* Authentication Testing (Bearer Token)
+* Functional API Testing
+* Negative Testing
+* Edge Case Testing
+* Regression Testing
+* API Documentation
 
 ---
 
-# 🧰 Tools
+# 🧰 Tools & Technologies
 
-- Postman
-- Insomnia
-- Swagger
-- JSON
-- REST APIs
+* Postman
+* Swagger / OpenAPI
+* REST APIs
+* JSON
+* HTTP Methods
+* Bearer Token Authentication
 
 ---
 
 # 📂 Repository Structure
 
-This repository will include:
+```text
+api-testing-portfolio/
 
-- API Test Plans
-- API Test Cases
-- API Bug Reports
-- Authentication Testing
-- Status Code Validation
-- Request & Response Validation
-- Sample Postman Collections
-- Test Summary Reports
+├── README.md
+├── API-Test-Plans/
+├── API-Test-Cases/
+├── Authentication/
+└── Status-Code-Validation/
+```
 
 ---
 
 # 🚀 Coming Soon
 
-- Login API Test Plan
-- Login API Test Cases
-- Sample Postman Collection
-- Authentication Testing
-- API Bug Report
-- Login API Test Summary Report
+* API Bug Reports
+* API Test Summary Reports
+* CRUD Operations Testing
+* Postman Collection
+* Swagger Testing Examples
 
 ---
 
-Thank you for visiting my API Testing Portfolio.
+# 🎯 Purpose
+
+The purpose of this repository is to demonstrate my practical experience in API testing by showcasing structured QA documentation, API validation techniques, authentication testing, and industry best practices.
+
+Each artifact reflects how I approach API quality assurance throughout the Software Development Life Cycle (SDLC).
+
+---
+
+Thank you for visiting my API Testing Portfolio!

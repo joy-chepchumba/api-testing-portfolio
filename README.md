@@ -2,40 +2,40 @@
 
 Welcome to my API Testing Portfolio.
 
-This repository showcases my approach to API testing through professionally structured QA documentation and testing artifacts based on industry-standard practices.
-
-The examples in this repository are created for demonstration purposes and reflect common API testing workflows using REST APIs.
+This repository demonstrates my practical approach to API testing using industry-standard QA practices and documentation. The examples are based on a fictional e-commerce application and are intended to showcase how I plan, execute, and report API testing activities.
 
 ---
 
-# 📌 Contents
-
-This repository currently includes:
+# 📌 Repository Contents
 
 * API Test Plans
 * API Test Cases
-* Authentication Documentation
+* Authentication Testing
 * HTTP Status Code Validation
+* API Bug Reports
+* API Test Summary Reports
 
 ---
 
-# 🛠 Skills Demonstrated
+# 🧰 Skills Demonstrated
 
 * REST API Testing
-* API Test Planning
-* API Test Case Design
-* Request & Response Validation
-* HTTP Status Code Validation
-* Authentication Testing (Bearer Token)
 * Functional API Testing
+* Authentication Testing
+* Bearer Token Validation
+* HTTP Status Code Validation
+* Request & Response Validation
+* Positive Testing
 * Negative Testing
 * Edge Case Testing
 * Regression Testing
-* API Documentation
+* Bug Reporting
+* Test Planning
+* Test Documentation
 
 ---
 
-# 🧰 Tools & Technologies
+# 🛠 Tools & Technologies
 
 * Postman
 * Swagger / OpenAPI
@@ -55,26 +55,32 @@ api-testing-portfolio/
 ├── API-Test-Plans/
 ├── API-Test-Cases/
 ├── Authentication/
-└── Status-Code-Validation/
+├── Status-Code-Validation/
+├── API-Bug-Reports/
+└── Test-Summary-Reports/
 ```
 
 ---
 
-# 🚀 Coming Soon
+# 🚀 Upcoming Additions
 
-* API Bug Reports
-* API Test Summary Reports
+Future updates to this repository will include:
+
 * CRUD Operations Testing
-* Postman Collection
-* Swagger Testing Examples
+* API Regression Testing
+* API Performance Testing
+* Postman Collections
+* Newman Test Execution
+* Swagger Validation Examples
+* Mock API Testing
 
 ---
 
 # 🎯 Purpose
 
-The purpose of this repository is to demonstrate my practical experience in API testing by showcasing structured QA documentation, API validation techniques, authentication testing, and industry best practices.
+The goal of this repository is to demonstrate practical API testing knowledge through structured QA artifacts that reflect real-world software testing activities.
 
-Each artifact reflects how I approach API quality assurance throughout the Software Development Life Cycle (SDLC).
+It showcases my ability to plan, execute, validate, document, and report API testing using industry best practices.
 
 ---
 
